@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Alice",
+    "message": "Amazing experience!",
+    "rating": 5
+  },
+  {
+    "name": "John",
+    "message": "Very relaxing and quiet.",
+    "rating": 4
+  },
+  {
+    "name": "Sophia",
+    "message": "Loved the outdoor movie night!",
+    "rating": 5
+  },
+  {
+    "name": "Marco",
+    "message": "Great place for families.",
+    "rating": 4
+  },
+  {
+    "name": "Emma",
+    "message": "The food was delicious.",
+    "rating": 5
+  },
+  {
+    "name": "David",
+    "message": "Peaceful and beautiful scenery.",
+    "rating": 4
+  }
+]
